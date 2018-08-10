@@ -1,0 +1,2 @@
+# eCadmy
+Static page
